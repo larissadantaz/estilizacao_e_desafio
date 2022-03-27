@@ -1,0 +1,35 @@
+body{
+    background-color: #D3D3D3;
+
+}
+.div-3b{
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border-style: dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-3b-filha1{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.div-3b-filha2{
+    background-color: darkorange;
+    height: 100px;
+    width: 30%;
+}
+
+.div-3b-filha3{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px; 
+}
